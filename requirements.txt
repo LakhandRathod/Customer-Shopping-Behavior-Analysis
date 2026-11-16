@@ -1,28 +1,5 @@
-
-# Python
-__pycache__/
-*.py[cod]
-*.pyd
-
-# Virtual environment
-.venv/
-venv/
-env/
-
-# Streamlit
-.streamlit/secrets.toml
-
-# Environment variables
-.env
-.env.*
-
-# Jupyter
-.ipynb_checkpoints/
-
-# IDE
-.vscode/
-.idea/
-
-# Temporary files
-*.log
-.DS_Store
+streamlit
+pandas
+numpy
+plotly
+openpyxl
